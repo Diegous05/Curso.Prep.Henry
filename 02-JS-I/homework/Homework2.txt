@@ -1,0 +1,16 @@
+                     HomeWork Introduccion a JS 
+
+Variable: manera de guardar distintos tipos de datos.(var, let, const).
+
+Strings: se denomina a toda cadena de letras o caracteres, palabras. Tipo de dato.
+         ("DLJeljlkfjsa", "  ¡asf!", 'Hola' )
+
+Funciones: se denomina a lineas de codigo que devuelven algo, hacen o
+           generan resultados. Utilizan argunentos o entradas(inputs) y
+           devuelven resultados(outputs).
+
+Declaraciones: utilizadas para expresar distintas condiciones que se espera
+               cumplan o no los tipos de datos evaluados. Especifica propiedades.
+               (if, else if, else, while).
+
+Valores booleanos: valores los cuales puesen ser verdaderos(true) o falsos(false).
